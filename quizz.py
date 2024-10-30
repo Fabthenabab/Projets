@@ -45,7 +45,6 @@ def display_intro():
     """
     Displays the intro message for the quiz.
     """
-    print('Coucou')
     print(dmessages['title'])
     time.sleep(1)
     print(dmessages['welcome'])
